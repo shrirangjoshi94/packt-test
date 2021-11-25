@@ -55,6 +55,14 @@
   ./vendor/bin/sail up
   ```
 
+- To run the tests follow the below process.
+
+  ```
+  In the .env file add the value in front of key TEST_RECORD_ID. This is a sample product ID which we are using for testing.
+  
+  ./vendor/bin/sail test
+  ```
+  
 - The project can be accessed on the below URL.
 
   ```
