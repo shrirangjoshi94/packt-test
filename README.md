@@ -68,3 +68,9 @@
   ```
   http://0.0.0.0/home
   ```
+
+- To stop the docker run the below command.
+
+  ```
+  ./vendor/bin/sail up
+  ```
